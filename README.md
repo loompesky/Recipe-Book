@@ -28,3 +28,9 @@ To push the current branch and set the remote as upstream, use
 To have this happen automatically for branches without a tracking
 upstream, see 'push.autoSetupRemote' in 'git help config'."
 10. git push --set-upstream origin Yam
+
+
+This project was created by Prince Frimpong
+Reachout and lets collaborate
+WhatsApp +233241324413
+LinkedIn: www.linkedin.com/in/frimpong-prince
